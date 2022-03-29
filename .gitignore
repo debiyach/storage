@@ -1,0 +1,10 @@
+.idea
+vendor/
+vendor/*
+composer.lock
+
+src/Adapters/CloudEwerAdapters.php
+src/CloudEwer/*
+
+index.php
+uploads/

@@ -1,0 +1,22 @@
+{
+    "name": "omer/storage",
+    "autoload": {
+        "psr-4": {
+            "Debiyach\\Storage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ömer Faruk GÖL",
+            "email": "faruk.gol@tsoft.com.tr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+  "require": {
+    "ext-fileinfo": "*",
+        "symfony/http-client": "^6.0",
+        "symfony/mime": "^6.0"
+  }
+}
