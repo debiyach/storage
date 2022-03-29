@@ -1,5 +1,5 @@
 {
-    "name": "omer/storage",
+   "name": "debiyach/storage",
     "autoload": {
         "psr-4": {
             "Debiyach\\Storage\\": "src/"
